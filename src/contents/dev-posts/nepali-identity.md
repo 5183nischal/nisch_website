@@ -1,0 +1,23 @@
+---
+title: "Hollowness of an Imposed Identity"
+published_at: 2021-12-25T14:15:00Z
+hook: "What does it mean to be a Nepali? Who decides what it means to be a Nepali?"
+location: "Melbourne"
+---
+
+
+Nepali as an identity that we understand today has been around for scarcely 200 year. _Nepalese_ is a modern bastardization of the same identity, which has been around for even shorter period of time. But official use of a word and its inclusion in language doesn't necessarily mean the word is meaningful. What, then, does it mean to say that I am a Nepali?
+
+One attempt at answering this question is posing it to people who identify as Nepali. The identity is whatever the people who use the identity make of it. One immediate, widely acknowledged, and equally derided answer comes through the means of geographic and historical association. Being a Nepali means being from the country of Sagarmatha. Being a Nepali means that I live in the same geographic boundary where Buddha once did. These ways of identifying as Nepali is frequently invoked by the people, and just as frequently derided by the elite who want to stand out by not having such simplistic notion of identity. But a geographic or historical reference to index one's identity is scarcely simplistic.
+
+Identity is intrinsically a stance of uniqueness. We create it by latching onto and drawing boundaries around association with features of the collective such as geographic landmarks, historical events, shared customs, common language and so on. Using a mountain or birth of a major religious figure is a valid way of selecting this feature. We also learn in government sanctioned textbooks that being a Nepali means wearing particular kinds of cloth, celebrating particular festivals, and practicing certain traditions. But to reiterate the point: identity can't be created topdown. When we look at the people, the Nepali people, we see no one common traditions and festivals and practices. We see multitude. In the space of same breath we acknowledge the multitude with oft repeated slogans, and declare only a subset of the multitude will count in the identity that is Nepali. This, I think, is the inherent contradiction of being a Nepali. We live in such multitude but suffer a relentless force of homogenization that is hellbent on hollowing out the identity.
+
+Barely a couple centuries ago, the geography that we call Nepal was a hodgepodge of political states with their own cultures and identity. There was much similarity between them, to be sure. But there was much difference too. Fast forward to today, we see a state with massive project of homogenization of cultures. Practices and traditions surrounding historical elite and the conquerors is amplified and imposed, while an ensemble of cultures and identities silently surrender and ultimately disappear. This is perhaps why we as people need to resort of to valid albeit hollow features such as mountains and distant historical figures to seek a representative commonality.
+
+It speaks volumes that tolerance in face of diversity is cited as a central virtue in Nepali textbooks. But wouldn't co-habitation and not merely tolerance be a much better virtue? If Nepali as an identity was truly representative of all the cultures that inhabit in Nepal, if streets of Kathmandu was teeming with dresses and languages from all the ethnicities, and if we recognized and participated in the rich variety of practices and festivals afforded to us, would we still feel the same vague hollowness of being a Nepali that we do today? Indeed, instead of looking inwards for seeking contents to our identity, we have looked outwards. We are giving in to the global homogenizing forces blowing eastwards from the US. The hollow created from ignoring and marginalizing the existing cultural content, we have created grounds for a empty and vaguely western cultural content to rush in. It is true that Nepal is not unique in falling victim to this, but I can't help but imagine if we could create a truly inclusive identity, we might not have to seek for content elsewhere.
+
+If we examine a more complete version of the quote that we are all familiar with, we can see homogenizing has always been the goal. This, we must resist. And the first step in resisting starts from recognizing.
+
+> "sabailaai chetanaa bhayaa yo phulbaariko choto badaa chaarai jat chhatisai varnale, <u>yo Asil hindusthaan ho</u>." -- Prithvinarayan Shah
+ 
+---

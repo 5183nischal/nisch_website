@@ -1,0 +1,175 @@
+/*! purgecss start ignore */
+@tailwind base;
+@tailwind components;
+
+h1,
+h2,
+h3,
+h4,
+p {
+  hyphens: auto;
+}
+
+body {
+  text-rendering: optimizeLegibility;
+}
+
+#flag {
+  background-image: linear-gradient(to bottom, #336699 0%, transparent 100%);
+}
+
+/* Underline From Center */
+.hvr-underline-from-center {
+  display: inline-block;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  position: relative;
+  overflow: hidden;
+}
+.hvr-underline-from-center:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 51%;
+  right: 51%;
+  bottom: 0;
+  background: black;
+  height: 1px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.hvr-underline-from-center:hover:before,
+.hvr-underline-from-center:focus:before,
+.hvr-underline-from-center:active:before {
+  left: 0;
+  right: 0;
+}
+
+/* Underline to Center */
+.hvr-underline-to-center {
+  display: inline;
+  -webkit-transform: perspective(1px) translateZ(0);
+  transform: perspective(1px) translateZ(0);
+  position: relative;
+  overflow: hidden;
+}
+.hvr-underline-to-center:before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: black;
+  height: 1px;
+  -webkit-transition-property: left, right;
+  transition-property: left, right;
+  -webkit-transition-duration: 0.3s;
+  transition-duration: 0.3s;
+  -webkit-transition-timing-function: ease-out;
+  transition-timing-function: ease-out;
+}
+.underline-black:before {
+  background: black;
+}
+.hvr-underline-to-center:hover:before,
+.hvr-underline-to-center:focus:before,
+.hvr-underline-to-center:active:before {
+  left: 51%;
+  right: 51%;
+}
+
+/*
+code block styling
+*/
+code {
+  background-color: #f6f6f6 !important;
+  font-size: 0.8rem !important;
+}
+
+/**
+ * Remove the default PrismJS theme background-color, border-radius, margin,
+ * padding and overflow.
+ * 1. Make the element just wide enough to fit its content.
+ * 2. Always fill the visible space in .gatsby-highlight.
+ * 3. Adjust the position of the line numbers
+ */
+.gatsby-highlight pre[class*="language-"] {
+  background-color: #f6f6f6;
+  font-family: Monaco, "Lucida Console", "Bitstream Vera Sans Mono", Courier,
+    monospace;
+  font-size: 0.75rem;
+  line-height: 1.4em;
+  padding: 25px;
+  overflow: auto;
+  width: auto;
+  white-space: pre;
+}
+
+.gatsby-highlight pre[class*="language-"] code {
+  padding: 0.5em;
+  background: transparent;
+  display: block;
+  line-height: 1.25em;
+}
+
+/*
+footnote definition style
+*/
+.footnotes {
+  margin: 30px auto !important;
+  width: 90%;
+  border-bottom: 1px solid #dedede;
+}
+
+.footnotes p {
+  font-size: 0.8rem !important;
+  display: inline;
+}
+
+.footnote-backref {
+  display: inline;
+}
+
+.footnotes ol li {
+  margin: 20px 0;
+  line-height: 1.3em;
+}
+
+.footnotes code {
+  font-size: 0.65rem !important;
+}
+
+/*
+figure caption styling
+*/
+.gatsby-resp-image-figcaption {
+  left: 1;
+  text-align: center;
+  top: 0;
+  width: auto;
+  font: italic;
+  font-size: 0.85rem;
+  padding-top: 12px;
+  line-height: 1.5em;
+}
+
+@screen lg {
+  .gatsby-resp-image-figure {
+    position: relative;
+  }
+  .gatsby-resp-image-figcaption {
+    font: italic;
+    position: absolute;
+    right: -120px;
+    width: 100px;
+    text-align:left;
+  }
+}
+
+/*! purgecss end ignore */
+@tailwind utilities;
